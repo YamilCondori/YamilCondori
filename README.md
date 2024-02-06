@@ -7,11 +7,12 @@ Frontend: React, JavaScript, Redux, Redux toolkit
 Backend: Express, Sequelize, Mongoose
 Bases de Datos: MongoDB, PostgreSQL
 Herramientas: Git, GitHub, Redux Toolkit
+
 💼 Proyectos Destacados
-RoomVesta.(Front: https://github.com/RoomProyect/room_proyect-Frontend - Back: https://github.com/RoomProyect/room_proyect-backend):
+📌 RoomVesta.(Front: https://github.com/RoomProyect/room_proyect-Frontend - Back: https://github.com/RoomProyect/room_proyect-backend):
   RoomVesta es una aplicacion web para control y venta de terrendos/casas/viviendas, tecnologias utilizadas: JS, Redux toolkit, ReactJS, Express, MongoDB, Mongoose.
 
-(EN PROCESO)Bake Shop(https://github.com/YamilCondori/Bake_Shop): Bake Shop es una pagina web creada para la venta y control de Stock, para una pequeña 
+📌 (EN PROCESO)Bake Shop(https://github.com/YamilCondori/Bake_Shop): Bake Shop es una pagina web creada para la venta y control de Stock, para una pequeña 
 empresa de venta de indumentaria femenina.
 
 🌱 Explorando y Aprendiendo
