@@ -9,6 +9,7 @@ Bases de Datos: MongoDB, PostgreSQL
 Herramientas: Git, GitHub, Redux Toolkit
 
 💼 Proyectos Destacados
+
 📌 RoomVesta.(Front: https://github.com/RoomProyect/room_proyect-Frontend - Back: https://github.com/RoomProyect/room_proyect-backend):
   RoomVesta es una aplicacion web para control y venta de terrendos/casas/viviendas, tecnologias utilizadas: JS, Redux toolkit, ReactJS, Express, MongoDB, Mongoose.
 
